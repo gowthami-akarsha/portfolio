@@ -4,16 +4,16 @@
 
 ## Performance in Desktop
 
-![Performance in Desktop](./desktop_performance.png)
+![Performance in Desktop](https://github.com/gowthami-akarsha/portfolio/blob/a9a266bebe0e1409986d88b0e95662f309d00a02/desktop_performance.PNG)
 
 ## Performance metrics in Desktop
 
-![Performance in Desktop](./desktop_performance_metrics.png)
+![Performance in Desktop](https://github.com/gowthami-akarsha/portfolio/blob/a9a266bebe0e1409986d88b0e95662f309d00a02/desktop_performance_metrics.PNG)
 
 ## Performance in Mobile
 
-![Performance in Desktop](./mobile_performance.png)
+![Performance in Desktop](https://github.com/gowthami-akarsha/portfolio/blob/a9a266bebe0e1409986d88b0e95662f309d00a02/mobile_performance.PNG)
 
 ## Performance metrics in Mobile
 
-![Performance in Desktop](./mobile_performance_metrics.png)
+![Performance in Desktop](https://github.com/gowthami-akarsha/portfolio/blob/a9a266bebe0e1409986d88b0e95662f309d00a02/mobile_performance_metrics.PNG)
