@@ -1,6 +1,6 @@
 # Portfolio - Gowthami Akarsha
 
-## Checkout my portfolio [here](https://bit.ly/akarsha-portfolio)
+## Checkout my portfolio [here](https://gowthami-akarsha.github.io/portfolio/)
 
 ## Performance in Desktop
 
